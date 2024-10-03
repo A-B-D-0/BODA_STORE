@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "10$",
+        "price": "500",
+        "description": "Steam",
+        "imgProduct":"",
+        "image": "image/steam.png",
+        "descount" :"off 5%",
+        "category": "Steam"
+    },
+    {
+        "id": 2,
+        "name": "20$",
+        "price": "500",
+        "description": "Steam",
+        "imgProduct":"",
+        "image": "image/steam.png",
+        "descount" :"off 5%",
+        "category": "Steam"
+    },
+    {
+        "id": 3,
+        "name": "50$",
+        "price": "500",
+        "description": "Steam",
+        "imgProduct":"",
+        "image": "image/steam.png",
+        "descount" :"off 5%",
+        "category": "Steam"
+    },
+    {
+        "id": 4,
+        "name": "75$",
+        "price": "500",
+        "description": "Steam",
+        "imgProduct":"",
+        "image": "image/steam.png",
+        "descount" :"off 5%",
+        "category": "Steam"
+    },
+    {
+        "id": 5,
+        "name": "100$",
+        "price": "500",
+        "description": "Steam",
+        "imgProduct":"",
+        "image": "image/steam.png",
+        "descount" :"off 5%",
+        "category": "Steam"
+    }
+]

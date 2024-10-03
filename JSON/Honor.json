@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "16",
+        "price": "11",
+        "description": "Honorcoins",
+        "imgProduct":"image/Honorcoins.png",
+        "image": "image/Honor of Kings.png",
+        "descount" :"off 12%",
+        "category": "Honor of Kings"
+    },
+    
+    {
+        "id": 2,
+        "name": "88",
+        "price": "55",
+        "description": "Honorcoins",
+        "imgProduct":"image/Honorcoins.png",
+        "image": "image/Honor of Kings.png",
+        "descount" :"off 12%",
+        "category": "Honor of Kings"
+    },
+    {
+        "id": 3,
+        "name": "288",
+        "price": "150",
+        "description": "Honorcoins",
+        "imgProduct":"image/Honorcoins.png",
+        "image": "image/Honor of Kings.png",
+        "descount" :"off 12%",
+        "category": "Honor of Kings"
+    },
+    {
+        "id": 4,
+        "name": "480",
+        "price": "255",
+        "description": "Honorcoins",
+        "imgProduct":"image/Honorcoins.png",
+        "image": "image/Honor of Kings.png",
+        "descount" :"off 12%",
+        "category": "Honor of Kings"
+    },
+    {
+        "id": 5,
+        "name": "670",
+        "price": "360",
+        "description": "Honorcoins",
+        "imgProduct":"image/Honorcoins.png",
+        "image": "image/Honor of Kings.png",
+        "descount" :"off 12%",
+        "category": "Honor of Kings"
+    },
+    {
+        "id": 6,
+        "name": "960",
+        "price": "510",
+        "description": "Honorcoins",
+        "imgProduct":"image/Honorcoins.png",
+        "image": "image/Honor of Kings.png",
+        "descount" :"off 12%",
+        "category": "Honor of Kings"
+    },
+    {
+        "id": 7,
+        "name": "1440",
+        "price": "765",
+        "description": "Honorcoins",
+        "imgProduct":"image/Honorcoins.png",
+        "image": "image/Honor of Kings.png",
+        "descount" :"off 12%",
+        "category": "Honor of Kings"
+    },
+    {
+        "id": 8,
+        "name": "2880",
+        "price": "1470",
+        "description": "Honorcoins",
+        "imgProduct":"image/Honorcoins.png",
+        "image": "image/Honor of Kings.png",
+        "descount" :"off 12%",
+        "category": "Honor of Kings"
+    },
+    {
+        "id": 9,
+        "name": "4800",
+        "price": "2450",
+        "description": "Honorcoins",
+        "imgProduct":"image/Honorcoins.png",
+        "image": "image/Honor of Kings.png",
+        "descount" :"off 12%",
+        "category": "Honor of Kings"
+    }
+]

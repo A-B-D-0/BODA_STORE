@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "10$",
+        "price": "500",
+        "description": "Razer",
+        "imgProduct":"",
+        "image": "image/Razer.png",
+        "descount" :"off 12%",
+        "category": "Razer"
+    },
+    {
+        "id": 2,
+        "name": "20$",
+        "price": "500",
+        "description": "Razer",
+        "imgProduct":"",
+        "image": "image/Razer.png",
+        "descount" :"off 12%",
+        "category": "Razer"
+    },
+    {
+        "id": 3,
+        "name": "50$",
+        "price": "2500",
+        "description": "Razer",
+        "imgProduct":"",
+        "image": "image/Razer.png",
+        "descount" :"off 12%",
+        "category": "Razer"
+    },
+    {
+        "id": 4,
+        "name": "100$",
+        "price": "4700",
+        "description": "Razer",
+        "imgProduct":"",
+        "image": "image/Razer.png",
+        "descount" :"off 12%",
+        "category": "Razer"
+    },
+    {
+        "id": 5,
+        "name": "200$",
+        "price": "9400",
+        "description": "Razer",
+        "imgProduct":"",
+        "image": "image/Razer.png",
+        "descount" :"off 12%",
+        "category": "Razer"
+    }
+    
+]

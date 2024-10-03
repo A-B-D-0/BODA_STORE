@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "10$",
+        "price": "",
+        "description": "PlayStation",
+        "imgProduct":"",
+        "image": "image/playstation.png",
+        "descount" :"off 12%",
+        "category": "playstation"
+    },
+    
+    {
+        "id": 2,
+        "name": "25$",
+        "price": "",
+        "description": "PlayStation",
+        "imgProduct":"",
+        "image": "image/playstation.png",
+        "descount" :"off 12%",
+        "category": "playstation"
+    },
+    {
+        "id": 3,
+        "name": "50$",
+        "price": "",
+        "description": "PlayStation",
+        "imgProduct":"",
+        "image": "image/playstation.png",
+        "descount" :"off 12%",
+        "category": "playstation"
+    },
+    {
+        "id": 4,
+        "name": "100$",
+        "price": "",
+        "description": "PlayStation",
+        "imgProduct":"",
+        "image": "image/playstation.png",
+        "descount" :"off 12%",
+        "category": "playstation"
+    }
+    
+]

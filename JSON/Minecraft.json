@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "1720",
+        "price": "450",
+        "description": "Minecraft",
+        "imgProduct":"image/Minecraftcoins.png",
+        "image": "image/Minecraft.png",
+        "descount" :"off 15%",
+        "category": "Minecraft"
+    },
+    
+    {
+        "id": 2,
+        "name": "3500",
+        "price": "900",
+        "description": "Minecraft",
+        "imgProduct":"image/Minecraftcoins.png",
+        "image": "image/Minecraft.png",
+        "descount" :"off 15%",
+        "category": "Minecraft"
+    }
+]
