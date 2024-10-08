@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Weekly PASS",
-        "price": 85,
+        "price": 95,
         "description": "",
         "imgProduct":"image/point.png",
         "descount" :"off 15%",
@@ -22,7 +22,7 @@
     {
         "id": 3,
         "name": "172",
-        "price": 140,
+        "price": 150,
         "description": "Diamonds",
         "imgProduct":"image/point.png",
         "descount" :"off 15%",
@@ -32,7 +32,7 @@
     {
         "id": 4,
         "name": "257",
-        "price": 195,
+        "price": 200,
         "description": "Diamonds",
         "imgProduct":"image/point.png",
         "descount" :"off 15%",
@@ -42,7 +42,7 @@
     {
         "id": 5,
         "name": "706",
-        "price": 495,
+        "price": 520,
         "description": "Diamonds",
         "imgProduct":"image/point.png",
         "descount" :"off 15%",
@@ -52,7 +52,7 @@
     {
         "id": 6,
         "name": "960",
-        "price": 670,
+        "price": 700,
         "description": "Diamonds",
         "imgProduct":"image/point.png",
         "descount" :"off 15%",
@@ -62,7 +62,7 @@
     {
         "id": 7,
         "name": "2195",
-        "price": 1450,
+        "price": 1500,
         "description": "Diamonds",
         "imgProduct":"image/point.png",
         "descount" :"off 15%",
