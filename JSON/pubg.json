@@ -46,7 +46,7 @@
     {
         "id": 5,
         "name": " 660",
-        "price": 445,
+        "price": 435,
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "descount" :"off 12%",
@@ -99,7 +99,7 @@
     {
         "id": 10,
         "name": " 4000",
-        "price": 2300,
+        "price": 2250,
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "descount" :"off 12%",
