@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "1000",
+        "price": "600",
+        "description": "Fortnite-V",
+        "imgProduct":"image/Fortnite-V.png",
+        "image": "image/Fortnite.png",
+        "descount" :"off 12%",
+        "category": "Fortnite-V"
+    },
+    {
+        "id": 2,
+        "name": "2800",
+        "price": "1380",
+        "description": "Fortnite-V",
+        "imgProduct":"image/Fortnite-V.png",
+        "image": "image/Fortnite.png",
+        "descount" :"off 12%",
+        "category": "Fortnite-V"
+    },
+    {
+        "id": 3,
+        "name": "5000",
+        "price": "2200",
+        "description": "Fortnite-V",
+        "imgProduct":"image/Fortnite-V.png",
+        "image": "image/Fortnite.png",
+        "descount" :"off 12%",
+        "category": "Fortnite-V"
+    },
+    {
+        "id": 4,
+        "name": "13500",
+        "price": "5250",
+        "description": "Fortnite-V",
+        "imgProduct":"image/Fortnite-V.png",
+        "image": "image/Fortnite.png",
+        "descount" :"off 12%",
+        "category": "Fortnite-V"
+    }
+    
+]
