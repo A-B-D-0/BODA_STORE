@@ -187,7 +187,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const customerName = document.getElementById('customer-name').value;
         const customerId = document.getElementById('customer-id').value;
         
-        let cartDetails = `  PUBG\n نورت الاستور يا : (${customerName}) \n\n :الايدى(ID): ${customerId} \n `;
+        let cartDetails = `  PUBG (CRAZY DEALS)\n نورت الاستور يا : (${customerName}) \n\n :الايدى(ID): ${customerId} \n `;
 
         cartDetails += `-\n -------------------------------------- `;
         cartDetails += `\n  الرجاء مراجع طلبك قبل التحويل: \n\n`;
@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const customerName = document.getElementById('customer-name').value;
         const customerId = document.getElementById('customer-id').value;
         
-         cartDetails = ` PUBG\n نورت الاستور يا : (${customerName})\n\n :الايدى(ID): ${customerId}\n`;
+         cartDetails = ` PUBG (CRAZY DEALS)\n نورت الاستور يا : (${customerName})\n\n :الايدى(ID): ${customerId}\n`;
 
         cartDetails += `-\n ------------------------------------ `;
         cartDetails += `\n  الرجاء مراجع طلبك قبل التحويل: \n\n`;
