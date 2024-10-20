@@ -475,6 +475,7 @@
     }
 
     .games{
+        position: relative;
         display: flex;
         flex-direction: column;
         align-items: flex-start;
@@ -483,10 +484,10 @@
         background-color:var(--main-color);
         border-radius: 15px;
         padding: 10px;
-        width:150px;
+        padding-bottom: 50px;
+        width:120px;
         margin: 10px;
         margin-bottom: 20px;
-        
     }
     
     .games:hover{
@@ -523,14 +524,31 @@
       }
     
      .games .discount{
-        font-size:11px;
-        font-weight: 600;
-        padding: 4px;
+        position: absolute;
+        bottom: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100px;
         border-radius: 25px;
+        background-color: var(--text-color);
+        
+      }
+
+      .games .discount h4{
+        font-size: 10px;
         text-transform: uppercase;
         color: var(--main-color);
-        background-color: var(--text-color);
-        margin: 10px;
+        font-weight: 600;
+        letter-spacing: 0.2px;
+        color: var(--main-color);
+      }
+
+      .games .discount i{
+        margin-left: 5px;
+        font-size: 15px;
       }
 
       #toggleButton2{
@@ -626,9 +644,12 @@
         
         .games .discount{
             position: absolute;
-            top: -20px;
-            font-size: 10px;
+            top: -15px;
+            right: -10px;
+            height: fit-content;
+            font-size: 11px;
             border: 1px solid var(--main-color);
+            
         }
         
       }
@@ -707,6 +728,20 @@
         color:#fff;
         padding: 10px;
         border-bottom: 1px solid black;
+    }
+
+    .About-content p{
+        color:#000000;
+        font-size: 17px;
+        padding: 10px;
+        margin-right: 10px;
+    }
+    
+    .About-content p span{
+        color:#e62b0a;
+        font-size: 15px;
+        padding: 10px;
+        margin-right: 10px;
     }
     
     .tilte1 ,.title2{
@@ -1003,7 +1038,7 @@
     }
 
     .product .image-uc img{
-        max-width: 200px;
+        max-width: 100px;
         object-fit: cover;
         border-radius:5px;
     }
@@ -1073,6 +1108,10 @@
         background-color: var(--fifth-color);
     }
 
+    .product .discount i{
+        font-size: 20px;
+    }
+
     .product .button-add{
         position: absolute;
         bottom: 0;
@@ -1082,7 +1121,6 @@
         justify-content:flex-end;
         align-items: center;
         border-radius: none;
-        
     }
 
     .product .addcart{
@@ -1109,7 +1147,6 @@
         border-radius: 25px;
         border: none;
         font-weight: 400;
-
         text-transform: capitalize;
         letter-spacing: 0.5px;
         transition: all .3s;
@@ -1168,6 +1205,11 @@
             margin-top: 10px;
             text-align: center;
         }
+
+        .product .discount i{
+            font-size: 15px;
+        }
+
     }
 
     /* ---------------------------------------------
