@@ -46,7 +46,7 @@
     {
         "id": 5,
         "name": " 660",
-        "price": 435,
+        "price": 440,
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "descount" :"off 12%",
@@ -68,7 +68,7 @@
     {
         "id": 7,
         "name": " 1800",
-        "price": 1090,
+        "price": 1100,
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "descount" :"off 12%",
@@ -79,7 +79,7 @@
     {
         "id": 8,
         "name": " 1950",
-        "price": 1180,
+        "price": 1190,
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "descount" :"off 12%",
@@ -109,7 +109,7 @@
     {
         "id": 11,
         "name": " 8100",
-        "price": 4100,
+        "price": 4150,
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "descount" :"off 12%",
