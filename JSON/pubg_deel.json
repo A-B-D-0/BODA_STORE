@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name": "325",
-        "price": "",
+        "name": "325×2",
+        "price": "450",
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "image": "image/pubg-logo.jpg",
@@ -12,8 +12,8 @@
     
     {
         "id": 2,
-        "name": "660",
-        "price": "",
+        "name": "660×2",
+        "price": "870",
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "descount" :"off 12%",
@@ -23,8 +23,8 @@
 
     {
         "id": 3,
-        "name": "16200",
-        "price": 8000,
+        "name": "8100",
+        "price": "",
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "descount" :"off 12%",
@@ -35,7 +35,7 @@
     {
         "id": 4,
         "name": "24300",
-        "price": 11600,
+        "price": "",
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "descount" :"off 12%",
@@ -45,7 +45,7 @@
     {
         "id": 5,
         "name": "32400",
-        "price": 15700,
+        "price": "",
         "description": "UC",
         "imgProduct":"image/UUCC.png",
         "descount" :"off 12%",
